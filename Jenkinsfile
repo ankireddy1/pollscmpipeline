@@ -7,7 +7,7 @@ pipeline
         {
             steps
             {
-                git 'https://github.com/ankireddy1/pipe.git'
+                git 'https://github.com/ankireddy1/pollscmpipeline.git'
             }
         }
         stage('continuousbuild')
